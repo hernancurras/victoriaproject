@@ -1,0 +1,8 @@
+[user]
+	name = Hernan GitHub
+	email = hernancurras@gmail.com
+[color]
+	status = auto
+	branch = auto
+	diff = auto
+	interactive = auto
