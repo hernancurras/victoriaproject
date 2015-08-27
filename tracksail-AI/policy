@@ -1,0 +1,5 @@
+grant {
+	permission java.net.SocketPermission "*:1099-", "accept, connect, resolve, listen";
+	permission java.io.FilePermission "../tracks/*", "read";
+	permission java.net.SocketPermission "*:5555-", "listen,resolve";
+};
