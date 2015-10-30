@@ -11,7 +11,7 @@ Victoria Project is an Autonomous Autopilot
 * Tracksail-AI is a simulator.
 * victoria_client, is the first draft of the Autonomous Autopilot engine.
 
-Integration_v1: Actuators. Created from a Arduino Nano
+integration_v1: Actuators. Created from a Arduino Nano
 ------------------------------------------------------
 
 1. Boat, actually is just the hardware need, a hull, a bulb, a sail
