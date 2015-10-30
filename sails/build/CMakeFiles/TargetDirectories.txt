@@ -1,1 +1,0 @@
-/home/hernan/Desktop/sails/build/CMakeFiles/sails.dir
