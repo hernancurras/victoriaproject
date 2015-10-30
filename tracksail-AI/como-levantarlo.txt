@@ -1,5 +1,0 @@
-Abrir 3 shels
-
-- Ejecutar el Server server.sh
-- Ejecutar el GUI ./client.sh
-- Ejecutar el Navegador ./victoria_client
